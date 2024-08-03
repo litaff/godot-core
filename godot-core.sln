@@ -1,0 +1,35 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "godot-core", "godot-core\godot-core.csproj", "{7DD90A63-865D-4E02-AE5B-F33D307B7004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotTask", "GodotTask\GodotTask.csproj", "{C469A96B-D339-4BC2-BB97-7F3AF67AEA37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotTaskTests", "GodotTaskTests\GodotTaskTests.csproj", "{25C36814-C0A0-4FB0-AFF8-35D7DCD2C7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DD90A63-865D-4E02-AE5B-F33D307B7004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD90A63-865D-4E02-AE5B-F33D307B7004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD90A63-865D-4E02-AE5B-F33D307B7004}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{7DD90A63-865D-4E02-AE5B-F33D307B7004}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{7DD90A63-865D-4E02-AE5B-F33D307B7004}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{7DD90A63-865D-4E02-AE5B-F33D307B7004}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+		{C469A96B-D339-4BC2-BB97-7F3AF67AEA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C469A96B-D339-4BC2-BB97-7F3AF67AEA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C469A96B-D339-4BC2-BB97-7F3AF67AEA37}.ExportDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C469A96B-D339-4BC2-BB97-7F3AF67AEA37}.ExportDebug|Any CPU.Build.0 = Debug|Any CPU
+		{C469A96B-D339-4BC2-BB97-7F3AF67AEA37}.ExportRelease|Any CPU.ActiveCfg = Debug|Any CPU
+		{C469A96B-D339-4BC2-BB97-7F3AF67AEA37}.ExportRelease|Any CPU.Build.0 = Debug|Any CPU
+		{25C36814-C0A0-4FB0-AFF8-35D7DCD2C7FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C36814-C0A0-4FB0-AFF8-35D7DCD2C7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C36814-C0A0-4FB0-AFF8-35D7DCD2C7FF}.ExportDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C36814-C0A0-4FB0-AFF8-35D7DCD2C7FF}.ExportDebug|Any CPU.Build.0 = Debug|Any CPU
+		{25C36814-C0A0-4FB0-AFF8-35D7DCD2C7FF}.ExportRelease|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C36814-C0A0-4FB0-AFF8-35D7DCD2C7FF}.ExportRelease|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
