@@ -1,7 +1,8 @@
-namespace GodotTask.Tests;
+namespace GodotUtils.Tests.GodotTask;
 
 using System;
 using System.Threading.Tasks;
+using GodotUtils.GodotTask;
 using NUnit.Framework;
 
 [TestFixture]

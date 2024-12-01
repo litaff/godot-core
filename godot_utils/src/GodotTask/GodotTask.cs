@@ -1,4 +1,4 @@
-namespace GodotTask;
+namespace GodotUtils.GodotTask;
 
 using Godot;
 

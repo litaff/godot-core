@@ -2,9 +2,9 @@
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "godot-core", "godot_test_runner\godot_test_runner.csproj", "{7DD90A63-865D-4E02-AE5B-F33D307B7004}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotTask", "godot_task\src\GodotTask.csproj", "{C469A96B-D339-4BC2-BB97-7F3AF67AEA37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotTask", "godot_utils\src\GodotUtils.csproj", "{C469A96B-D339-4BC2-BB97-7F3AF67AEA37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotTask.Tests", "godot_task\tests\GodotTask.Tests.csproj", "{25C36814-C0A0-4FB0-AFF8-35D7DCD2C7FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GodotTask.Tests", "godot_utils\tests\GodotUtils.Tests.csproj", "{25C36814-C0A0-4FB0-AFF8-35D7DCD2C7FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
