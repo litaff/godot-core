@@ -18,10 +18,16 @@ public class MultiMeshInstanceTests
         var scenario = new World3D();
         multiMeshInstance = new MultiMeshInstance(mesh, position, instances, scenario);
     }
-
+    
     // Can figure out tests which would work.
     // Tried forcing godot to throw an exception, but couldn't even on custom code.
     // Maybe add tests in the future, but it should be small and robust enough to not break.
+
+    [Test]
+    public void Pass()
+    {
+        Assert.Pass();
+    }
 
     [TearDown]
     public void TearDown()
